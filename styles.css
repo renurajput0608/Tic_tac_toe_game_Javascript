@@ -1,0 +1,36 @@
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid black;
+}
+
+.x {
+  color: rgb(251, 253, 250);
+  font-size: 80px;
+}
+
+.o {
+  color: rgb(255, 30, 0);
+  font-size: 80px;
+}
+
+.win {
+  background-color: rgb(10, 11, 12);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+#reset {
+  margin: 48px 40%;
+  padding: 20px;
+}

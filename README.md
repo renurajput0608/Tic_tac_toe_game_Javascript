@@ -1,2 +1,16 @@
-# Tic_tac_toe_game_Javascript
-Made Tic Tac Toe game using HTML, CSS &amp; JavaScript during my internship at Unified Mentor.
+# Tic-Tac-Toe-Game using javascript
+This is a Tic-Tac-Toe game created using HTML, CSS, and JavaScript.
+
+The project consists of:
+* index.html - Simple HTML page to open in a browser
+* styles.css - Styling for the HTML page.
+* ScriptFile.js - Functionality for the Tic-Tac-Toe game.
+
+## To Run
+
+* Click on the index.html file to open it in a web browser. Play the game by clicking on the cells in the grid to add "X" or "O" symbols.
+
+
+## Example
+
+![alt text](preview.jpg)
